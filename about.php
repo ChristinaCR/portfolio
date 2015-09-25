@@ -21,9 +21,9 @@
 					<h3>Resume</h3>
 
 				   	<ul>
-						<li><a href="https://drive.google.com/file/d/0BybnVty-LJEMcEpITldMd001YlE/view?usp=sharing">PDF</a></li>
-					   	<li><a href="https://drive.google.com/file/d/0BybnVty-LJEMV0RjY0RNQ2xNUnc/view?usp=sharing">Word</a></li>
-					   	<li><a href=" ">RTF</a></li>
+						<li><a href="https://drive.google.com/file/d/0BybnVty-LJEMRFFpWHk4SDhxNG8/view?usp=sharing" target="_blank">PDF</a></li>
+					   	<li><a href="https://drive.google.com/file/d/0BybnVty-LJEMX2NFVmdWZnUtWms/view?usp=sharing" target="_blank">Word</a></li>
+					   	<li><a href="https://drive.google.com/file/d/0BybnVty-LJEMU0RabEcxNEtYYWM/view?usp=sharing" target="_blank">RTF</a></li>
 				   	</ul>	
 
 				<br />
