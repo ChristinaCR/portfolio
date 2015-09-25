@@ -19,7 +19,7 @@
 			 			    
 			    <div class="galleryItem">
 					<a href=""><img src="images/shopping_website.jpg"></a>
-					<a href="http://crome.dreamhosters.com/oils/index.html">Visit Site</a>
+					<a href="http://crome.dreamhosters.com/oils/index.html" target="_blank">Visit Site</a>
 				</div><!--end galleryItem-->
 							    
 			    <div class="galleryText">
@@ -45,7 +45,7 @@
 			 			    
 			    <div class="galleryItem">
 					<a href=""><img src="images/ajax_function.jpg"></a>
-					<a href="http://crome.dreamhosters.com/oils/index.html">Github Repo</a>
+					<a href="https://github.com/ChristinaCR/ecommerce" target="_blank">Github Repo</a>
 				</div><!--end galleryItem-->
 							    
 			    <div class="galleryText">
@@ -66,7 +66,7 @@
 			 			    
 			    <div class="galleryItem">
 					<a href=""><img src="images/dd_disciples_website.jpg"></a>
-					<a href="http://crome.dreamhosters.com/dd_disciples/band.php">Visit Site</a>
+					<a href="http://crome.dreamhosters.com/dd_disciples/index.php" target="_blank">Visit Site</a>
 				</div><!--end galleryItem-->
 							    
 			    <div class="galleryText">
@@ -87,7 +87,7 @@
 			 			    
 			    <div class="galleryItem">
 					<a href=""><img src="images/dd_gradient_code.jpg"></a>
-					<a href="http://crome.dreamhosters.com/wordpress/">Github Repo</a>
+					<a href="https://github.com/ChristinaCR/dd_disciples" target="_blank">Github Repo</a>
 				</div><!--end galleryItem-->
 							    
 			    <div class="galleryText">
@@ -108,7 +108,7 @@
 			 			    
 			    <div class="galleryItem">
 					<a href=""><img src="images/aromatherapy_website.jpg"></a>
-					<a href="http://crome.dreamhosters.com/aromatherapy/index.php">Visit Site</a>
+					<a href="http://crome.dreamhosters.com/aromatherapy/index.php" target="_blank">Visit Site</a>
 				</div><!--end galleryItem-->
 							    
 			    <div class="galleryText">
@@ -134,7 +134,7 @@
 
 				<div class="galleryItem">
 					<a href=""><img src="images/at_map_code.jpg"></a>
-					<a href="http://crome.dreamhosters.com/aromatherapy/index.php">Github Repo</a>
+					<a href="https://github.com/ChristinaCR/aromatherapy" target="_blank">Github Repo</a>
 				</div><!--end galleryItem-->
 							    
 			    <div class="galleryText">
@@ -160,9 +160,8 @@
 			    <div class="galleryText">
 					<h4>Contact Info</h4>
 					<ul>
-						<li>Phone number</li>
-						<li>christinar.808@gmail.com</li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="http://www.google.com/recaptcha/mailhide/d?k=010JpBNCj2XoFp7Gydk6gxrw==&amp;c=BWxZYvajeQ4I1FO5TaWQf9c4tRSfrzTNS9p4fBhQB6k=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075010JpBNCj2XoFp7Gydk6gxrw\75\75\46c\75BWxZYvajeQ4I1FO5TaWQf9c4tRSfrzTNS9p4fBhQB6k\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">c...</a>@gmail.com<br /></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div><!--end galleryText-->
 							     
